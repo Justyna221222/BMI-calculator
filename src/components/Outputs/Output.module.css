@@ -1,0 +1,17 @@
+.header {
+    color: #06325E;
+    font-weight: bold;
+    margin: 20px 0 10px 0;
+    border: 2px solid #06325E;
+    padding: 15px;
+}
+.header span {
+    color:maroon;
+    font-weight: 900;
+    margin: 0 15px;
+}
+span {
+    color:#06325E;
+    margin: 0  20px;
+    font-weight: bold;
+}
